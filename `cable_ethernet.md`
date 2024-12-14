@@ -1,0 +1,12 @@
+```mermaid
+flowchart LR
+    subgraph Cable_Ethernet
+    A[Blanco-Naranja (Pin 1)] --> B[Conector RJ45 Pin 1]
+    C[Naranja (Pin 2)] --> D[Conector RJ45 Pin 2]
+    E[Blanco-Verde (Pin 3)] --> F[Conector RJ45 Pin 3]
+    G[Azul (Pin 4)] --> H[Conector RJ45 Pin 4]
+    I[Blanco-Azul (Pin 5)] --> J[Conector RJ45 Pin 5]
+    K[Verde (Pin 6)] --> L[Conector RJ45 Pin 6]
+    M[Blanco-Marrón (Pin 7)] --> N[Conector RJ45 Pin 7]
+    O[Marrón (Pin 8)] --> P[Conector RJ45 Pin 8]
+    end
